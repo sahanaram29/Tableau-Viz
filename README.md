@@ -15,3 +15,5 @@ This project visualizes data from Netflix’s library of movies and TV shows usi
 - Content Categories: Movies and TV shows are divided into various categories, including genre, ratings, and release year for deeper insight into Netflix’s content portfolio.
 - Data Storytelling: The dashboard is designed to highlight key insights about the diversity and evolution of Netflix’s library over the years.
 
+
+![alt text](https://github.com/sahanaram29/Tableau-Viz/blob/main/Netflix.png?raw=true)
